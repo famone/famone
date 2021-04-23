@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi ther, my name is **Cocotin Famzayka** 🤓🤓🤓
+## Front-end developer in Webink. studio
+**Follow me, i usually post interesting projects, where you can find cool features for you)**
 
-<!--
-**famone/famone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack:
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![VUE](https://img.shields.io/badge/-VUE.JS-090909?style=for-the-badge&logo=Vue.js)
+![NUXT](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt.js)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can write me in telegram: @trof_r ✉️
