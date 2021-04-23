@@ -10,4 +10,4 @@
 ![NUXT](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 
-## You can write me in telegram: @trof_r ✉️
+## You can write me in telegram: @famzayka
