@@ -1,4 +1,4 @@
-# Hi ther, my name is **Cocotin Famzayka** 🤓🤓🤓
+# Hi there, my name is **Cocotin Famzayka** 🤓🤓🤓
 ## Front-end developer in Webink. studio
 **Follow me, i usually post interesting projects, where you can find cool features for you)**
 
