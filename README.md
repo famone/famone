@@ -10,5 +10,6 @@
 ![NUXT](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt.js)
 ![Vuetify](https://img.shields.io/badge/-VUETIFY-090909?style=for-the-badge&logo=Vuetify)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel)
 
 ## You can write me in telegram: @famzayka
