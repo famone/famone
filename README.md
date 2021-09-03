@@ -1,5 +1,5 @@
 # Hi there, my name is **Cocotin Famzayka** 🤓🤓🤓
-## Front-end developer in webink.studio, PM TL in RUE Beltamozhservice
+## Front-end developer in webink.studio, Front-end in RUE Beltamozhservice
 **Follow me, i usually post interesting projects, where you can find cool features for you)**
 
 ### Stack:
