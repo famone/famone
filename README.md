@@ -1,4 +1,4 @@
-# Hi there, my name is **Cocotin Famzayka** 🤓🤓🤓
+# Hi there, my name is **Konstantin Tim** 🤓🤓🤓
 ## Front-end developer in webink.studio, Front-end in RUE Beltamozhservice
 **Follow me, i usually post interesting projects, where you can find cool features for you)**
 
