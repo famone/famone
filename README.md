@@ -9,7 +9,7 @@
 ![VUE](https://img.shields.io/badge/-VUE.JS-090909?style=for-the-badge&logo=Vue.js)
 ![NUXT](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt.js)
 ![Vuetify](https://img.shields.io/badge/-VUETIFY-090909?style=for-the-badge&logo=Vuetify)
-![Tailwind](https://img.shields.io/badge/-TAILWIND-090909?style=for-the-badge&logo=Tailwind)
+![Tailwindcss](https://img.shields.io/badge/-TAILWINDCSS-090909?style=for-the-badge&logo=Tailwindcss)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel)
 ![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
