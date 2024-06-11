@@ -15,5 +15,9 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel)
 ![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
+![Express](https://img.shields.io/badge/-express-090909?style=for-the-badge&logo=express)
+![Mongodb](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-prisma-090909?style=for-the-badge&logo=prisma)
+
 
 ## You can write me in telegram: @famzayka
