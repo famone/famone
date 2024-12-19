@@ -1,5 +1,5 @@
 # Hi there, my name is **Cocotin** 🤓🤓🤓
-## Front-end developer in webink.studio, Front-end in RUE Beltamozhservice
+## Front-end developer
 **Follow me, i usually post interesting projects, where you can find cool features for you)**
 
 ### Stack:
