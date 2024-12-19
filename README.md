@@ -19,6 +19,3 @@
 ![Mongodb](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/-prisma-090909?style=for-the-badge&logo=prisma)
 ![Nest.js](https://img.shields.io/badge/-nestjs-090909?style=for-the-badge&logo=nestjs)
-
-
-## You can write me in telegram: @famzayka
